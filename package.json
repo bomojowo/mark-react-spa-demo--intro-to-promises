@@ -2,7 +2,8 @@
   "name": "mark-react-spa-demo--intro-to-promises",
   "version": "0.0.1",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "start": "ts-node"
   },
   "license": "CC-BY-NC-ND-4.0",
   "dependencies": {},
